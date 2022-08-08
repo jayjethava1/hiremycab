@@ -43,7 +43,7 @@ function NavBar() {
             <Toolbar position="sticky" color="rgba(0, 0, 0, 0.87)" className={classes.bar}>   
 
 <img src={require('../images/logo.png').default} alt="Trulli" width="230" height="155"/>
-<h1><p>Book Cab Now <a href="tel:9975291212">9975 291 212</a>.</p></h1>
+<h2><p>Book Cab Now <a href="tel:9975291212">9975 291 212</a>.</p></h2>
             
                 <Typography variant="h6" className={classes.menuItem}>
                    About
