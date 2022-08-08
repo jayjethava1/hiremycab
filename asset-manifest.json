@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hiremycab/static/css/main.7d180cbf.chunk.css",
-    "main.js": "/hiremycab/static/js/main.9228e1a1.chunk.js",
-    "main.js.map": "/hiremycab/static/js/main.9228e1a1.chunk.js.map",
+    "main.js": "/hiremycab/static/js/main.a6047e6c.chunk.js",
+    "main.js.map": "/hiremycab/static/js/main.a6047e6c.chunk.js.map",
     "runtime-main.js": "/hiremycab/static/js/runtime-main.65b979b9.js",
     "runtime-main.js.map": "/hiremycab/static/js/runtime-main.65b979b9.js.map",
     "static/js/2.2640719b.chunk.js": "/hiremycab/static/js/2.2640719b.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.65b979b9.js",
     "static/js/2.2640719b.chunk.js",
     "static/css/main.7d180cbf.chunk.css",
-    "static/js/main.9228e1a1.chunk.js"
+    "static/js/main.a6047e6c.chunk.js"
   ]
 }
