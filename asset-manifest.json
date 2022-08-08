@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/jayjethava1/hiremycab/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/jayjethava1/hiremycab/static/js/main.9228e1a1.chunk.js",
+    "main.js.map": "/jayjethava1/hiremycab/static/js/main.9228e1a1.chunk.js.map",
+    "runtime-main.js": "/jayjethava1/hiremycab/static/js/runtime-main.0a99f4bc.js",
+    "runtime-main.js.map": "/jayjethava1/hiremycab/static/js/runtime-main.0a99f4bc.js.map",
+    "static/js/2.2640719b.chunk.js": "/jayjethava1/hiremycab/static/js/2.2640719b.chunk.js",
+    "static/js/2.2640719b.chunk.js.map": "/jayjethava1/hiremycab/static/js/2.2640719b.chunk.js.map",
+    "static/js/3.3d9d77db.chunk.js": "/jayjethava1/hiremycab/static/js/3.3d9d77db.chunk.js",
+    "static/js/3.3d9d77db.chunk.js.map": "/jayjethava1/hiremycab/static/js/3.3d9d77db.chunk.js.map",
+    "index.html": "/jayjethava1/hiremycab/index.html",
+    "static/css/main.7d180cbf.chunk.css.map": "/jayjethava1/hiremycab/static/css/main.7d180cbf.chunk.css.map",
+    "static/js/2.2640719b.chunk.js.LICENSE.txt": "/jayjethava1/hiremycab/static/js/2.2640719b.chunk.js.LICENSE.txt",
+    "static/media/ertiga.jpg": "/jayjethava1/hiremycab/static/media/ertiga.92ec8a83.jpg",
+    "static/media/intro-bg.jpg": "/jayjethava1/hiremycab/static/media/intro-bg.b9d430d2.jpg",
+    "static/media/logo.png": "/jayjethava1/hiremycab/static/media/logo.10d29769.png",
+    "static/media/sedan.jpg": "/jayjethava1/hiremycab/static/media/sedan.af8b628e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a99f4bc.js",
+    "static/js/2.2640719b.chunk.js",
+    "static/css/main.7d180cbf.chunk.css",
+    "static/js/main.9228e1a1.chunk.js"
+  ]
+}
